@@ -35,3 +35,8 @@ When designing software, I focus on breaking the system into smaller, manageable
 
 - Business Requirements Document (Project One)  
 - System Design Document (Project Two)
+  - Activity Diagram: Schedule Lesson
+  - Activity Diagram: Take Practice Test
+  - Sequence Diagram: Schedule Lesson
+  - DriverPass UML Class Diagram
+  - DriverPass UML Use Case Diagram
